@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Brave Browser
+Comment=Browse the web with Brave
+Exec=/usr/local/bin/launch-brave-with-audio.sh %U
+Icon=brave-browser
+Path=
+Terminal=false
+StartupNotify=true
+Categories=Network;WebBrowser;

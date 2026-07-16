@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox Web Browser
+Comment=Browse the web with Firefox
+Exec=/usr/local/bin/launch-firefox-with-audio.sh %U
+Icon=firefox-esr
+Path=
+Terminal=false
+StartupNotify=true
+Categories=Network;WebBrowser;
