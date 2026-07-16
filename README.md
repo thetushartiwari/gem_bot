@@ -1,4 +1,4 @@
-# Allyra Docs
+
 
 This folder is the local source of truth for the current `gem_bot` repo.
 
