@@ -16,7 +16,7 @@ Allyra is the product name. Many packages, Docker services, APIs, and internal i
 ## Current Local Stack
 
 - `bytebot-ui`
-  Allyra web UI on `http://localhost:9992`
+  web UI on `http://localhost:9992`
 - `bytebot-agent`
   Planner, task orchestration, execution loop, saved-session logic, media orchestration, summaries, and result parking on `http://localhost:9991`
 - `bytebot-desktop`
